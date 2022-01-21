@@ -1,1 +1,1 @@
-Generates a random quote from the TV show "I Think You Should Leave with Tim Robinson" from Netflix.
+Generates a random quote from the TV shows "I Think You Should Leave with Tim Robinson" from Netflix and "It's Always Sunny in Philadelphia" from FX.
