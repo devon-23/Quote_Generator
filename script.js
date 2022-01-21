@@ -42,7 +42,9 @@ var itysl = [
     'sunday funday with these pig dicks',
     'SHUT THE FUCK UP DOUG I did though',
     'It\'s just me barbie, I\'m not the blues brothers',
-    
+    'Can I have some gazpacho soup?',
+    'honk if you\'re horny',
+    'or would you be spankin by bare butt, balls, and back?'
 ];
 
 var iasip = [
@@ -61,6 +63,19 @@ var iasip = [
     'Later boners',
     'I\'m a…full-on rapist, you know? Uh, Africans, dyslexics, children, that sort of thing',
     'Cause if the girl said “no,” then the answer obviously is “no.” But the thing is, is she\'s not gonna say “no.” She would never say “no,” because of the implication',
+    'I got my Magnum condoms; I got my wad of hundreds. I\'m ready to plow',
+    'Can I stop you, though? You keep using this word “jabroni.” And...it\'s awesome!',
+    'Everybody\'s dying, bitch',
+    'Boys are out tonight, huh?',
+    'Wildcard, bitches! Yee-haw!',
+    'Hey-o! What\'s up, bitches!',
+    'Keep singing, bitch. You\'re not gonna have a face by the time I\'m done with you',
+    'Science is a liar sometimes',
+    'It turns out I am - I am too muscular, and I can\'t fit through',
+    'Let me tell you something. I haven\'t even begun to peak. And when I do peak, you\'ll know. Because I\'m gonna peak so hard that everybody in Philadelphia\'s gonna feel it',
+    'This is ham, soaked in rum.',
+    'What\'s your angle here?',
+    'Can I offer you a nice egg in this tryingt time?'
 ];
 
 function ityslRandom() {
