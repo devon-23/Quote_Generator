@@ -1,12 +1,28 @@
 <!DOCTYPE html>
 <html>
     <body>
-        <h1>I Think You Should Leave with Tim Robinson Random Generator</h1>
-        <button onclick="random();"> Get Quote </button>
+        <h1>TV show Quote Generator</h1>
+        <div class="selection">
+            <select id="dropdown" name="dropdown">
+                <option value="0">IASIP</option>
+                <option value="1">ITYSL</option>
+            </select>
+            <button class="go-btn" type="submit" onclick="random();"> Go </button>
+        </div>
         <div id="quoteDisplay">
             <!--Quotes-->
         </div>
-        
     <script src="script.js"></script>
+    <script type ="text/javascript">
+        function random() {
+        var location = document.getElementById("dropdown").selectedIndex;
+        if (location == 0) {
+            iasipRandom();
+        }
+        else if (location == 1) {
+            ityslRandom();
+        }
+    }
+    </script>
     </body>
 </html>

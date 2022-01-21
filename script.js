@@ -1,4 +1,4 @@
-var list = [
+var itysl = [
     'I\'LL KILL YOU',
     'I\'M DONE. DO WHAT YOU WANT. PULL THE PLUG',
     'dan flashes got a shirt TO-DAY that\'s $450',
@@ -45,7 +45,17 @@ var list = [
     
 ];
 
-function random() {
-    var quote = Math.floor(Math.random() * (list.length));
-    document.getElementById('quoteDisplay').innerHTML = list[quote];
+var iasip = [
+    'test',
+    'test123'
+];
+
+function ityslRandom() {
+    var quote = Math.floor(Math.random() * (itysl.length));
+    document.getElementById('quoteDisplay').innerHTML = itysl[quote];
+}
+
+function iasipRandom() {
+    var quote = Math.floor(Math.random() * (iasip.length));
+    document.getElementById('quoteDisplay').innerHTML = iasip[quote];
 }
