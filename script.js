@@ -46,8 +46,21 @@ var itysl = [
 ];
 
 var iasip = [
-    'test',
-    'test123'
+    'Any amount of cheese before a date is too much cheese',
+    'Goddammit, Jack Bauer. You really are the man',
+    'Oh, I get it. Cute. You leave this pen here and people are supposed to think, “Wait, that looks like a dick.”',
+    'Well, I don\'t know how many years on this Earth I got left. I\'m gonna get real weird with it',
+    'Here\'s a confession: I\'m in love with a man. What? I\'m in love with a man. A man called God. Does that make me gay? Am I gay for God? You betcha!',
+    'Hello fellow American. This you should vote me. I leave power. Good. Thank you. Thank you. If you vote me, I\'m hot.” What? “Taxes. They\'ll be lower. Son. The democratic vote for me is right thing to do, Philadelphia. So do.',
+    'Okay, well, “Charlie work” is like, you know, like basement stuff, cleaning urinals, uh, blood stuff, your basic slimes, your sludges, anything dead or decaying. You know, I\'m on it. I\'m dealing with it',
+    'Wanna go get sweaty in the bathroom?',
+    'What is this word, spa?',
+    'Roxy, God bless you. You were a good whore. You serviced me like no other whore ever did. Not only my crank, but my heart. And...I\'m gonna miss ya. Amen.',
+    'Cat in the wall, eh? Okay, now you\'re talking my language',
+    'Oh, shit. Look at that door, dude. See that door right there? The one marked “pirate?” You think a pirate lives in there?',
+    'Later boners',
+    'I\'m a…full-on rapist, you know? Uh, Africans, dyslexics, children, that sort of thing',
+    'Cause if the girl said “no,” then the answer obviously is “no.” But the thing is, is she\'s not gonna say “no.” She would never say “no,” because of the implication',
 ];
 
 function ityslRandom() {
